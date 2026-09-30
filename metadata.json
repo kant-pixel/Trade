@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade Pro - Portfolio & Risk Dashboard",
+  "description": "Institutional-grade swing trading portfolio, drawdown mitigation, Trade Brigade signals, SOX & Memory sector analytics, and automated risk control system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
